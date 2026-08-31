@@ -46,6 +46,8 @@ extra_javascript:
 
 nav:
   - Start: index.md
+  - Contributing: contributing.md
+  - License: license.md
   - Shows:
     - Overzicht: shows/overzicht.md
     - Sketches:
@@ -62,10 +64,8 @@ nav:
   - Erlemeyer:
     - Overzicht: erlemeyer/overzicht.md
     - 3d model: erlemeyer/3d-model.md
-    - electronics: erlemeyer/electronics.md
-    - code: erlemeyer/code.md
-  - Contributing: contributing.md
-  - License: license.md
+    - Electronics: erlemeyer/electronics.md
+    - Code: erlemeyer/code.md
 
 docs_dir: docs
 site_dir: site

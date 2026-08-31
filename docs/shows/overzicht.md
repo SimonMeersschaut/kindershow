@@ -7,11 +7,18 @@
 2. Assistent van de dag kiezen
 3. Drankje wakker maken
 4. Korte sketch
-5. Vliegerlied?
+5. Dansje
 6. Sketch
 7. Proefje
 8. Verhaaltje
 9. Slaaplied
+
+## Dansjes
+
+- Bewegen is gezond
+- Ochtendgymnastiek
+- Vliegerlied
+- Tsjoe Tsjeo Wa
 
 ## Personages
 
