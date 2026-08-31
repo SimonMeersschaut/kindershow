@@ -1,7 +1,7 @@
-site_name: Paint Robot
-site_description: A Python-based research and implementation project for paint robot control and optimization
-site_author: Simon
-site_url: https://SimonMeersschaut.github.io/paint-bot/
+site_name: Kindershows
+site_description: Deze repository bevat alle source code, scripts, en powerpoints voor de kindershows voor Intersoc.
+site_author: Simon Meersschaut
+site_url: https://SimonMeersschaut.github.io/kindershows/
 
 theme:
   name: readthedocs
@@ -44,6 +44,14 @@ nav:
   - Home: index.md
   - Contributing: contributing.md
   - License: license.md
+  - Erlemeyer:
+    - 3d model: erlemeyer/index.md
+    - 3d model: erlemeyer/3d-model.md
+    - electronics: erlemeyer/electronics.md
+    - code: erlemeyer/code.md
+  - Shows:
+    - index: shows/index.md
+    - Dag 1: shows/dag1/script.md
 
 docs_dir: docs
 site_dir: site
