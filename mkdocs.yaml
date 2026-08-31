@@ -1,7 +1,7 @@
 site_name: Kindershows
 site_description: Deze repository bevat alle source code, scripts, en powerpoints voor de kindershows voor Intersoc.
 site_author: Simon Meersschaut
-site_url: https://SimonMeersschaut.github.io/kindershows/
+site_url: https://SimonMeersschaut.github.io/kindershow/
 
 theme:
   name: readthedocs
@@ -45,7 +45,7 @@ nav:
   - Shows:
     - Overzicht: shows/overzicht.md
     - Sketches:
-      - afleiding: shows/sketches/afleiding.md
+      - Afleiding: shows/sketches/afleiding.md
       - Groen of Rood: shows/sketches/groen-of-rood.md
       - Niesbui: shows/sketches/niesbui.md
       - Onzichtbare Muur: shows/sketches/onzichtbare-muur.md
