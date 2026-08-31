@@ -21,6 +21,8 @@ Daisy:: Hihi, dag iedereen. Ik heb jullie hulp nodig. Mijn magische krachten zij
 Simon:: Gaan wij Daisy helpen?
 Allemaal:: Ja.
 Simon:: Oke, Daisy, hoe kunnen wij jou helpen?
-Daisy::
+Daisy:: TODO
+...
+Daisy:: Nu moeten jullie allemaal samen het vliegerlied dansen.
+Simon:: Oke kinderen, sta maar recht, we gaan het vliegerlied dansen.
 :::
-
