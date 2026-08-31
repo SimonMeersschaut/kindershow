@@ -1,31 +1,7 @@
-# Dag 1
-
-## Structuur
-
-- Assistent kiezen
-- Druif wakker maken
-- Druif geeft een geheim drankje
-- Sketch: volgorde RGB
-- Proefje
-- Vliegerlied
-- Verhaaltje
-- Slaaplied
-
-## Script
-
-### Intro
+# Juiste volgorde!
 
 ::: script
-*(Profs komen op met tomati tomatuti)*
-Beiden:: Dag iedereen!
-Tomaat:: Mijn naam is professor Tomaat en dit is professor Borocoli. Wij zijn wetenschappers. En dit, is Druif het drankje. Maar, zij slaapt al 20 jaar lang. Is hier iemand in het publiek die samen met ons Druif wil wakker maken.
-*(Kind word uitgekozen en mag Druif wakker maken)*
-Druif:: *(strekt zich uit)* “aaaaah... goeiemorgen! Ik ben Druif het drankje.”
-Tomaat:: Gaan we allemaal dag zeggen aan Druif het Drankje.
-Allemaal:: Dag Druif het drankje.
-:::
-### Proefje
-::: script
+
 Druif:: Ik ben al 20 jaar aan het slapen, en EINDELIJK maakt iemand mij wakker! Om jullie te bedanken zal ik jullie een geheim recept verklappen. *(Met figuren op ppt)* Eerst moet je het rode drankje in de buis doen, dan het groene, en dan het blauwe. Maar, pas op! Want, als je de drankjes in de foute volgorde zet, dan ontploft alles.
 Broccoli:: Oke, ik zal de drankjes klaar zetten. *(Kijkt mee op de ppt)* eerst rood, dan groen, dan blauw. Oke goed. Ik ga nog even iets gaan halen. *(wandelt backstage)*.
 Tomaat:: Haha, we gaan Broccoli eens foppen. Ik ga de drankjes van volgorde verwisselen. *(verwisselt de drankjes)*
@@ -35,8 +11,4 @@ Een kind:: De drankjes zijn gewisseld!
 Broccoli:: Ah, oke. *(wisselt terug naar goeie volgorde)*. 
 *(Experiment gaat verder.)*
 
-Tomaat:: Oke, Druif. Wat gaan we nu doen?
-Druif:: Nu moeten jullie allemaal samen het vliegerlied dansen.
-Tomaat:: Oke kinderen, sta maar recht, we gaan het vliegerlied dansen.
-*(Dansen vliegerlied)*
 :::

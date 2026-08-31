@@ -50,12 +50,13 @@ nav:
     - Overzicht: shows/overzicht.md
     - Sketches:
       - Afleiding: shows/sketches/afleiding.md
-      - Groen of Rood: shows/sketches/groen-of-rood.md
+      - Volgorde: shows/sketches/volgorde.md
       - Niesbui: shows/sketches/niesbui.md
       - Onzichtbare Muur: shows/sketches/onzichtbare-muur.md
       - Slechthorende Professor: shows/sketches/slechthorende-professor.md
       - Tijdvertrager: shows/sketches/tijdvertrager.md
       - Verkeerde ingredient: shows/sketches/verkeerde-ingredient.md
+      - Verkeerde outfit: sketches/verkeerde-outfit.md
     - Dag 1: shows/dag1/script.md
     - Dag 2: shows/dag2/script.md
   - Erlemeyer:

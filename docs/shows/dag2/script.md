@@ -3,7 +3,7 @@
 ## Structuur
 
 - Assistent kiezen
-- Daisy wakker maken
+- Druif wakker maken
 - Gaat ons iets tonen
 - sketch
 - vliegerlied
