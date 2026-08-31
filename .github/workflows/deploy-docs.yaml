@@ -46,6 +46,8 @@ jobs:
           pip install mkdocs mkdocs-material
 
       - name: Build documentation
+        env:
+          PYTHONPATH: ${{ github.workspace }}
         run: mkdocs build
 
       - name: Upload Pages artifact
