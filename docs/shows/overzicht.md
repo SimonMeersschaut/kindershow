@@ -19,6 +19,9 @@
 - [Slechthorende Professor](sketches/slechthorende-professor.md)
 - [Verkeerde ingredient](sketches/verkeerde-ingredient.md)
 - [Afleiding](sketches/afleiding.md)
+- [Onzichtbare muur](sketches/onzichtbare-muur.md)
+- [Tijdvertrager](sketches/tijdvertrager.md)
+- [Niesbui](sketches/niesbui.md)
 
 ## Proefjes
 

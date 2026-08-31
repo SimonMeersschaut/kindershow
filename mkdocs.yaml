@@ -44,6 +44,14 @@ nav:
   - Start: index.md
   - Shows:
     - Overzicht: shows/overzicht.md
+    - Sketches:
+      - afleiding: shows/sketches/afleiding.md
+      - Groen of Rood: shows/sketches/groen-of-rood.md
+      - Niesbui: shows/sketches/niesbui.md
+      - Onzichtbare Muur: shows/sketches/onzichtbare-muur.md
+      - Slechthorende Professor: shows/sketches/slechthorende-professor.md
+      - Tijdvertrager: shows/sketches/tijdvertrager.md
+      - Verkeerde ingredient: shows/sketches/verkeerde-ingredient.md
     - Dag 1: shows/dag1/script.md
   - Erlemeyer:
     - Overzicht: erlemeyer/overzicht.md
