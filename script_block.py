@@ -1,8 +1,21 @@
-import re
+import json
+from pathlib import Path
 
 import markdown
 from markdown.extensions import Extension
 from markdown.preprocessors import Preprocessor
+
+
+CONFIG_PATH = Path(__file__).with_name("script_config.json")
+
+
+def load_speaker_colors():
+    try:
+        with CONFIG_PATH.open("r", encoding="utf-8") as fh:
+            data = json.load(fh)
+        return data.get("speakers", {})
+    except (FileNotFoundError, json.JSONDecodeError):
+        return {}
 
 
 class ScriptBlockPreprocessor(Preprocessor):
@@ -36,6 +49,7 @@ class ScriptBlockPreprocessor(Preprocessor):
 
     def _render_script(self, lines):
         rendered_rows = []
+        speaker_colors = load_speaker_colors()
 
         for raw_line in lines:
             text = raw_line.strip()
@@ -54,14 +68,18 @@ class ScriptBlockPreprocessor(Preprocessor):
                 continue
 
             if not speaker:
-                speaker = "Narrator"
+                speaker = "<onbekend>"
+
+            color = speaker_colors.get(speaker, speaker_colors.get("default", "#0f172a"))
 
             line_html = markdown.Markdown(extensions=["extra"]).convert(dialogue).strip()
             if line_html.startswith("<p>") and line_html.endswith("</p>"):
                 line_html = line_html[3:-4]
 
-            rendered_rows.append(f'<p class="show-script-speaker">{speaker}</p>')
-            rendered_rows.append(f'<p class="show-script-line">{line_html}</p>')
+            rendered_rows.append(
+                f'<span class="show-script-speaker" style="color: {color};">{speaker}</span>'
+            )
+            rendered_rows.append(f'<span class="show-script-line">{line_html}</span><br/>')
 
         if not rendered_rows:
             return ""
@@ -69,9 +87,7 @@ class ScriptBlockPreprocessor(Preprocessor):
         inner = "".join(rendered_rows)
         return (
             '<div class="show-script-wrapper">'
-            '<div class="show-script-scene">'
             f"{inner}"
-            '</div>'
             '</div>'
         )
 
