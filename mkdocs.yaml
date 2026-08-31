@@ -41,17 +41,17 @@ extra_javascript:
   - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
 
 nav:
-  - Home: index.md
-  - Contributing: contributing.md
-  - License: license.md
+  - Start: index.md
+  - Shows:
+    - Overzicht: shows/overzicht.md
+    - Dag 1: shows/dag1/script.md
   - Erlemeyer:
-    - 3d model: erlemeyer/index.md
+    - Overzicht: erlemeyer/overzicht.md
     - 3d model: erlemeyer/3d-model.md
     - electronics: erlemeyer/electronics.md
     - code: erlemeyer/code.md
-  - Shows:
-    - index: shows/index.md
-    - Dag 1: shows/dag1/script.md
+  - Contributing: contributing.md
+  - License: license.md
 
 docs_dir: docs
 site_dir: site

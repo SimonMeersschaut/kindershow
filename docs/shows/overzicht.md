@@ -15,8 +15,10 @@
 
 ## Sketches
 
-- Groen of Rood drankje?
--  
+- [Groen of Rood drankje?](sketches/groen-of-rood.md)
+- [Slechthorende Professor](sketches/slechthorende-professor.md)
+- [Verkeerde ingredient](sketches/verkeerde-ingredient.md)
+- [Afleiding](sketches/afleiding.md)
 
 ## Proefjes
 
@@ -28,6 +30,7 @@
 - **Jodiumklokreactie (Iodine Clock)**: Meng twee transparante vloeistoffen. Terwijl je aftelt met het publiek, gebeurt er ogenschijnlijk niets — tot de vloeistof in exact één seconde omslaat naar diepdonkerblauw. Het 'plotselinge' effect werkt geweldig op een podium.
 
 [stevespangler experiments](https://stevespangler.com/experiments/)
+
 [proefjes.nl](https://www.proefjes.nl/alleproefjes.php)
 
 ![Bal uit fles blazen](bal-uit-fles.png)
