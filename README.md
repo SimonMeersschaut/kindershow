@@ -9,3 +9,7 @@ Je kan de documentatie lokaal compileren met het volgende commando.
 ```
 python -m mkdocs build
 ```
+
+```
+mkdocs serve
+```
