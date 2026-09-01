@@ -38,6 +38,9 @@ Druif:: Hihi, ik heb een beetje gelogen lieve kindjes. Het was eigenlijk het gro
 *(rest van de scene)*
 
 Druif::Oke, ik geef het toe. Ik heb gelogen. Het was eigenlijk het groene drankje.
-Druif:: Als je wilt dat professor Tomaat terug kan praten, dan 
+Druif:: Als je wilt dat professor Tomaat terug kan praten, dan moet je ... vinden.
+En ik heb ... heel goed verstop.
+
+*(Kinderen helpen met zoeken, een kind vindt het, Tomaat kan terug praten; einde sketch)*
 
 :::
