@@ -50,6 +50,8 @@ nav:
   - License: license.md
   - Shows:
     - Overzicht: shows/overzicht.md
+    - proefjes: shows/dag1/proefjes.md
+    - personages: shows/personages.md
     - Sketches:
       - Afleiding: shows/sketches/afleiding.md
       - Volgorde: shows/sketches/volgorde.md
